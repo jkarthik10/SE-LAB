@@ -1,98 +1,42 @@
-# SE Lab – Requirements Engineering & UML
+# Software Engineering Lab
 
-## Lab 1: Requirements Engineering & UML Use-Case Modelling
+## Lab 1 – Requirements Engineering & UML Use-Case Modelling
 
-### Problem Statement #09
+### Problem Statement
 **Faculty Research Grant & Publication Tracker**
 
-## Student Details
+## Team Members
 
-- **Name:** J Karthik
-- **SRN:** PES1UG25AM804
-- **Section:** B
+| Name | SRN |
+|------|-----|
+| Dandu Nivas Reddy | PES1UG24AM075 |
+| Darisi Anantha Venkata Sreeram | PES1UG24AM076 |
+| Gajula Sai Hemanth | PES1UG24AM101 |
+| J Karthik | PES1UG25AM804 |
 
-## Objective
+## Project Context
 
-The objective of this lab is to perform Requirements Engineering and UML Use-Case Modelling for a Faculty Research Grant & Publication Tracker system.
+The Faculty Research Grant & Publication Tracker is a system for managing research grants, research expenses, publications, co-author approvals, and research performance information.
 
-## System Overview
+## Project Scope
 
-The Faculty Research Grant & Publication Tracker is designed to help Faculty Researchers manage research grants, research expenses, publications, co-author approvals, and research performance.
+The project covers:
 
-The Research Dean can monitor grant utilization and research/publication performance.
-
-## Functional Requirements
-
-The system supports:
-
-- Managing research grant records and approved funding limits.
-- Recording research expenses.
-- Calculating the remaining grant balance.
-- Preventing expenses that exceed the available grant amount.
-- Managing publication records.
-- Maintaining indexing and citation information.
-- Supporting co-author approval workflows.
-- Providing fund burn-up and research/publication analytics.
-
-## Non-Functional Requirements
-
-The system includes:
-
-- Immutable and tamper-evident audit records.
-- Traceability of financial approvals and publication status changes.
-- Responsive access during expected peak usage.
+- Research grant management
+- Research expense tracking
+- Grant balance calculation
+- Publication management
+- Co-author approval workflow
+- Publication metrics
+- Fund utilization analytics
+- Research performance tracking
 
 ## Actors
 
-The UML Use-Case Diagram contains two main actors:
+- **Faculty Researcher**
+- **Research Dean**
 
-1. Faculty Researcher
-2. Research Dean
-
-## Use Cases
-
-### Faculty Researcher
-
-- UC-01 – Manage Grant
-- UC-02 – Record Research Expense
-- UC-03 – Update Remaining Budget
-- UC-04 – Manage Publication
-- UC-05 – Request Co-author Approval
-- UC-06 – Track Publication Metrics
-
-### Research Dean
-
-- UC-07 – View Fund Analytics
-- UC-08 – View Research Metrics
-- UC-09 – Review Approval
-
-## Core Use Case
-
-### Record Research Expense
-
-The Faculty Researcher selects an active research grant and enters the expense details.
-
-The system validates the expense and checks whether the amount is within the available grant balance.
-
-If the expense is valid:
-
-- The expense is recorded.
-- Total expenditure is updated.
-- Remaining grant balance is recalculated.
-- The updated balance is displayed.
-
-If the expense exceeds the available grant balance, the system rejects the expense and informs the researcher.
-
-## UML Relationships
-
-The use-case diagram contains:
-
-- `<<include>>` relationships for mandatory supporting functionality.
-- `<<extend>>` relationship for the co-author approval workflow.
-
-## Deliverable
-
-This repository contains the complete Lab 1 submission, including:
+## Contents
 
 - Requirements Table
 - UML Use-Case Diagram
@@ -102,9 +46,8 @@ This repository contains the complete Lab 1 submission, including:
 
 ## File
 
-`PES1UG25AM804_LAB01.pdf`
+- `LAB_01.pdf` – Complete Lab 1 submission
 
 ---
 
-**PES University – CSE (AIML)**  
-**Software Engineering Lab**
+**PES University – CSE (AIML)**
