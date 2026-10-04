@@ -3,9 +3,15 @@
 ## Project
 **Faculty Research Grant & Publication Tracker**
 
-**Name:** J Karthik  
-**SRN:** PES1UG25AM804  
-**Section:** B
+## Team Members
+
+| Name | SRN |
+|------|-----|
+| Dandu Nivas Reddy | PES1UG24AM075 |
+| Darisi Anantha Venkata Sreeram | PES1UG24AM076 |
+| Gajula Sai Hemanth | PES1UG24AM101 |
+| J Karthik | PES1UG25AM804 |
+
 
 ## Objective
 To convert Lab 1 requirements into Agile Epics and User Stories, prioritize the backlog, assign story points, create sprints, track progress, and analyze the Burndown Chart.
