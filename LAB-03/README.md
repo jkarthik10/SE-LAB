@@ -4,9 +4,15 @@
 
 **Problem Statement #09**
 
-- **Name:** J Karthik
-- **SRN:** PES1UG25AM804
-- **Section:** B
+## Team Members
+
+| Name | SRN |
+|------|-----|
+| Dandu Nivas Reddy | PES1UG24AM075 |
+| Darisi Anantha Venkata Sreeram | PES1UG24AM076 |
+| Gajula Sai Hemanth | PES1UG24AM101 |
+| J Karthik | PES1UG25AM804 |
+
 
 ## Objective
 
