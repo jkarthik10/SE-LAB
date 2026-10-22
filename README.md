@@ -1,5 +1,8 @@
 # Rock Paper Scissor Lab — Lab 4 VibeCoding
 
+Name: J Karthik
+SRN: PES1UG25AM804
+
 A Pygame Rock–Paper–Scissors game with corrected scoring, a first-to-five match, adaptive CPU move selection, procedural move icons, and a short reveal animation.
 
 ## Requirements
