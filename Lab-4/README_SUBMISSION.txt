@@ -1,5 +1,9 @@
 LAB 4 — VIBECODING SUBMISSION PACK
 
+Name: J KARTHIK
+SRN: PES1UG25AM804
+
+
 Included:
 - Updated_Code/: Python source and requirements
 - Submission_Report.pdf: submission summary
