@@ -1,6 +1,9 @@
 # L6_L7_59 — Phone Repair Quote
 ## Lab 6: Code and Branch Coverage Analysis
 
+## Name: J Karthik
+## SRN: PES1UG25AM804
+
 ### Application
 `phone_repair_quote.py` provides repair quotes, repair-time estimates, and phone trade-in values.
 
