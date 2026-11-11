@@ -1,5 +1,7 @@
 # L6_L7_59 — Phone Repair Quote
 
+## Name: J Karthik
+## SRN: PES1UG25AM804
 ## Lab 7: Fuzzing for Input Validation Bugs
 
 This lab uses Hypothesis and pytest to fuzz three parsers and harden them against malformed input.
